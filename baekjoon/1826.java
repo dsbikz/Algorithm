@@ -41,6 +41,6 @@ public class Main {
                 }
             }
         }
-        System.out.println(answer); //길쌍
+        System.out.println(answer); 
      }
 }
